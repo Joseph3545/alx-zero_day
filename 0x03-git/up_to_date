@@ -1,2 +1,2 @@
 echo "touch" > up_to_date
-touch
+Git push file-name
