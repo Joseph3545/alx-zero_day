@@ -1,2 +1,1 @@
-echo "touch" > up_to_date
-Git push file-name
+git pull
